@@ -11,6 +11,7 @@ gensim = "*"
 torch = "*"
 pydantic-choices = "*"
 spacy = {extras = ["cuda102"], version = "*"}
+segtok = "*"
 
 [dev-packages]
 jupyter = "*"
