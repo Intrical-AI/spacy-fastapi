@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+flair = "*"
+gensim = "*"
+torch = "*"
+pydantic-choices = "*"
+spacy = {extras = ["cuda102"], version = "*"}
+
+[dev-packages]
+jupyter = "*"
+autopep8 = "*"
+price-parser = "*"
+ipdb = "*"
+
+[requires]
+python_version = "3.8"
