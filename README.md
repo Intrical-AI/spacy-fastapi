@@ -1,6 +1,6 @@
 # Spacy-fastapi
 
-This project provides REST API interface (thanks to [FastAPI](https://fastapi.tiangolo.com/)) to [Spacy](https://spacy.io/) V3 with GPU support reducing the latecy for a fast, complete and customizable NLP self-contained pipeline part.
+This project provides REST API interface (thanks to [FastAPI](https://fastapi.tiangolo.com/)) to [Spacy](https://spacy.io/) V3 with GPU support reducing the latency for a fast, complete and customizable NLP self-contained pipeline part.
 
 
 
